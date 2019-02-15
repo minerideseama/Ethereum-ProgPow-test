@@ -9,3 +9,5 @@ Source: https://github.com/AndreaLanfranchi/ethminer
 I have compiled 2 versions of the miner for AMD OpenCL and NVidia Cuda.
 
 You can also help ETH community by reporting your results to https://progpow.pro/submitGPU.php
+
+Download the miner from Release section: https://github.com/minerideseama/Ethereum-ProgPow-test/releases 
