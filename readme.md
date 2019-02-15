@@ -12,6 +12,8 @@ You can also help ETH community by reporting your results to https://progpow.pro
 
 Download the miner from Release section: https://github.com/minerideseama/Ethereum-ProgPow-test/releases 
 
+Please also read the FAQ inside, Noob FAQ by a Noob like me, as it might answer some of the possible questions I saw around.
+
 As I have spent many days on it, and other persons too, while this is not our main job and we are not huge miners, any tip will be appreciated!
 
 Andrea Lanfranchi, author of the compiled miner, kudos for him to work on it, also without any financial interest and/or being paid by anyone:
