@@ -1,6 +1,6 @@
-If you would like to test ProgPow and help ETH community, this is the right place to get all the information needed.
+If you would like to test ProgPoW and help ETH community, this is the right place to get all the information needed.
 
-I have compiled Ethminer for Windows user for testing of ETH ProgPow implementation.
+I have compiled Ethminer for Windows user for testing of ETH ProgPoW implementation.
 
 Compiled version: ethminer 0.18.0-alpha.3+commit.260c47d2
 
